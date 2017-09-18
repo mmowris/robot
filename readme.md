@@ -13,6 +13,6 @@
 
 	$ npm start
 
-4.) If you'd like to view test results?
+4.) If you'd like to view jest and linting tests?
 
 	$ npm test
