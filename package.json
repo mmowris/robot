@@ -1,0 +1,22 @@
+{
+  "name": "mattbot",
+  "version": "1.0.0",
+  "description": "An imaginary robot that cleans an imaginary room",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest && eslint .",
+    "start": "node index.js"
+  },
+  "author": "matt mowris",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "file-system": "^2.2.2",
+    "lodash": "^4.17.4"
+  },
+  "devDependencies": {
+    "eslint": "^4.7.0",
+    "eslint-config-google": "^0.9.1",
+    "jest": "^21.1.0"
+  }
+}
